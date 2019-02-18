@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Pe-icon-7-stroke";
+  src: url("../../fonts/Pe-Icon-Stroke/Pe-icon-7-stroke.eot?d7yf1v");
+  src: url("../../fonts/Pe-Icon-Stroke/Pe-icon-7-stroke.eot?#iefixd7yf1v")
+      format("embedded-opentype"),
+    url("../../fonts/Pe-Icon-Stroke/Pe-icon-7-stroke.woff?d7yf1v")
+      format("woff"),
+    url("../../fonts/Pe-Icon-Stroke/Pe-icon-7-stroke.ttf?d7yf1v")
+      format("truetype"),
+    url("../../fonts/Pe-Icon-Stroke/Pe-icon-7-stroke.svg?d7yf1v#Pe-icon-7-stroke")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="pe-7s-"],
+[class*=" pe-7s-"] {
+  display: inline-block;
+  font-family: "Pe-icon-7-stroke";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* icons */
+.pe-7s-server:before {
+  content: "\e617";
+}
+.pe-7s-clock:before {
+  content: "\e66b";
+}
+.pe-7s-chat:before {
+  content: "\e66d";
+}
+.pe-7s-network:before {
+  content: "\e69e";
+}
+.pe-7s-loop:before {
+  content: "\e63d";
+}
+.pe-7s-search:before {
+  content: "\e618";
+}
+
+.pe-7s-edit:before {
+  content: "\e659";
+}
